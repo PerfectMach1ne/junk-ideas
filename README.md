@@ -1,13 +1,15 @@
 # me ideas
 
 ### Approvement(?) statuses
-* ***`worked-on`***
-* ~~***`hiatus`***~~
-* yes
-* *kind-of*
-* `no`
-* ~~`finished`~~
-* ~~scrapped~~
+| Status name & format |
+| --- |
+| ***`worked-on`*** |
+| ~~***`hiatus`***~~ |
+| yes |
+| *kind-of* |
+| `no` |
+| ~~`finished`~~ |
+| ~~scrapped~~ |
 
 ## vCalendar
 ##### Approved?: ***`worked-on`***
