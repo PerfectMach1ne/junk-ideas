@@ -116,17 +116,78 @@ But complaints aside: I liked most of the website's UI/UX design, so I thought i
 ---
 
 #### From my notes (Uni Ntb. Series 4.2, p147-149):
-A C console game focused on writing and ASCII art. Try finding a way to draw the ASCII illustrations with a tablet and then have the code properly interpret them. The story should probably be taking place either in Pathway to Eden or Radio Boring World universe.
+*A C console game focused on writing and ASCII art. Try finding a way to draw the ASCII illustrations with a tablet and then have the code properly interpret them. The story should probably be taking place either in Pathway to Eden or Radio Boring World universe.*
 
 ---
 
-## Codename "Idea B"
+## Codename "Idea C"
 ##### Approved?: `no`
 
 ---
 
 #### From my notes (Uni Ntb. Series 4.2, p147-149):
-A C console game focused on writing and ASCII art. Try finding a way to draw the ASCII illustrations with a tablet and then have the code properly interpret them. The story should probably be taking place either in Pathway to Eden or Radio Boring World universe.
+*browser. that's it*
+
+---
+
+## Codename "Idea D"
+##### Approved?: `no`
+
+---
+
+#### From my notes (Uni Ntb. Series 4.2, p147-149):
+*RTF/fancy custom file format doc editor*
+
+---
+
+## Codename "Idea F"
+##### Approved?: `no`
+
+---
+
+#### From my notes (Uni Ntb. Series 4.2, p147-149):
+*ω Notes changelog manager feat. Google Sheets API (and perhaps Vue.js and certainly something for Discord API)*
+
+---
+
+## Codename "Idea G"
+##### Approved?: `no`
+
+---
+
+#### From my notes (Uni Ntb. Series 4.2, p147-149):
+*P2E embed*
+![image](https://github.com/PerfectMach1ne/ideas/assets/75753483/b3174beb-b2ab-4e03-add0-83311cf756db)
+
+---
+
+## Codename "Idea H"
+##### Approved?: `no`
+
+---
+
+#### From my notes (Uni Ntb. Series 4.2, p147-149):
+*Pomodoro with my own preset Pomodoro types + customizable versions; Phone, desktop & website app; synchronized; possibly could have users?*
+
+---
+
+## Codename "Idea J"
+##### Approved?: `no`
+
+---
+
+#### From my notes (Uni Ntb. Series 4.2, p147-149):
+*SMB 3 SNES inspired (or ripoff) game that's just P2E or whatever*
+
+---
+
+## Codename "[BIG] II"
+##### Approved?: `no`
+
+---
+
+#### From my notes (Uni Ntb. Series 4.2, p147-149):
+*very personalized music player*
 
 ---
 
