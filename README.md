@@ -3,14 +3,15 @@
 ### Approvement(?) statuses
 | Status name & format |
 | --- |
-| ***`worked-on`*** |
-| ~~***`hiatus`***~~ |
-| yes |
-| *kind-of* |
-| `no` |
-| ~~`finished`~~ |
-| ~~scrapped~~ |
+| [***`worked-on`***](#ideas-worked-on) |
+| [~~***`hiatus`***~~](#ideas-on-hiatus) |
+| [yes](#approved-ideas) |
+| [*kind-of*](#kind-of-approved-ideas) |
+| [`no`](#unapproved-ideas) |
+| [~~`finished`~~](#finished-ideas) |
+| [~~scrapped~~](#scrapped-ideas) |
 
+# Ideas worked on
 ## vCalendar
 ##### Approved?: ***`worked-on`***
 ##### Repo: https://github.com/PerfectMach1ne/uni-se-prj
@@ -41,6 +42,7 @@ The only spoilers I'll drop for now: moar calendars; self-organization done neur
 
 ---
 
+# Ideas on hiatus
 ## ***`nw4-twt-archivist`***
 ##### Approved?: ~~***`hiatus`***~~
 ##### Repo: https://github.com/PerfectMach1ne/nw4-twt-archivist
@@ -61,6 +63,7 @@ Google Sheets API based app for helping me track when I take my meds. Planned fe
 
 ---
 
+# Approved ideas
 ## Tcl/tk NW4 utils
 ##### Approved?: yes
 ##### Repo: https://github.com/PerfectMach1ne/tcl-nw4-utils
@@ -82,6 +85,7 @@ My dream project - a Minecraft clone in C and OpenGL or something else. I honest
 
 ---
 
+# Kind of approved ideas
 ## *JavaCalendar 2.0*
 ##### Approved?: *kind-of*
 ##### Repo: https://github.com/PerfectMach1ne/uni-javacalendar/tree/java-calendar-2point0
@@ -94,6 +98,7 @@ I originally planned (and had to, according to my uni class's requirements) to c
 
 ---
 
+# Unapproved ideas
 ## `Brogle∪ (Brogle Sum)`
 ##### Approved?: `no`
 
@@ -102,5 +107,33 @@ I originally planned (and had to, according to my uni class's requirements) to c
 A full stack web app of the social media kind, like Google+ because I am an oddball among its' former users and hate it.
 ...well, at least I hated it for the last few years it spent being alive. Rip Bozo+, you used to be better before the worthless ironic boy fanclub era.
 But complaints aside: I liked most of the website's UI/UX design, so I thought it'd be fun to someday try to recreate it from memory.
+
+---
+
+## Codename "Idea A"
+##### Approved?: `no`
+
+---
+
+#### From my notes (Uni Ntb. Series 4.2, p147-149):
+A C console game focused on writing and ASCII art. Try finding a way to draw the ASCII illustrations with a tablet and then have the code properly interpret them. The story should probably be taking place either in Pathway to Eden or Radio Boring World universe.
+
+---
+
+## Codename "Idea B"
+##### Approved?: `no`
+
+---
+
+#### From my notes (Uni Ntb. Series 4.2, p147-149):
+A C console game focused on writing and ASCII art. Try finding a way to draw the ASCII illustrations with a tablet and then have the code properly interpret them. The story should probably be taking place either in Pathway to Eden or Radio Boring World universe.
+
+---
+
+# Finished ideas
+
+---
+
+# Scrapped ideas
 
 ---
